@@ -1,0 +1,9 @@
+.imagen {
+    float: right;
+    width: 400px;
+    height: 600px;
+}
+
+.texto {
+    padding-right: 80px;
+}
